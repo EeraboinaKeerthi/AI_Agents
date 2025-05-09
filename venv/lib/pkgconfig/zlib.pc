@@ -1,0 +1,13 @@
+prefix=/Users/keerthieeraboina/Desktop/Agents/venv
+exec_prefix=/Users/keerthieeraboina/Desktop/Agents/venv
+libdir=/Users/keerthieeraboina/Desktop/Agents/venv/lib
+sharedlibdir=/Users/keerthieeraboina/Desktop/Agents/venv/lib
+includedir=/Users/keerthieeraboina/Desktop/Agents/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
