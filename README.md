@@ -3,6 +3,7 @@ Gen AI:
 **Generative AI** 
 
 Gen AI is a type of artificial intelligence technology that can produce various types of content, including text, image, audio, and synthetic data.
+GenAI is a type of Artificial Intelligence that creates new content based on what it has learned from existing content.
 
 **Artificial Intelligence**
 
